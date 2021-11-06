@@ -1,0 +1,72 @@
+---
+title: "P8105_hw4_js5962"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This website serves for my homework 4
+
+The website includes my self-introduction and plotly exercises.
+
+![](https://media4.giphy.com/media/yr7n0u3qzO9nG/giphy.gif?cid=ecf05e47sh41ehowv11jlzunjxxgyukylf2zjad4d0gpndl8&rid=giphy.gif&ct=g)
+
+# Who Am I? {.tabset}
+
+## Education
+**Brandeis University**
+
+***Aug 2017 - Jun 2021***
+
+Waltham, MA
+
+Bachelor of Art and Science, double major in Economics and Mathematics
+
+**Yonsei University**
+
+***Jul - Aug 2018***
+
+Seoul (Summer Program)
+
+Course taken: East Asia Fiction, Korean BRG001
+
+**Columbia University**
+
+***Aug 2021 - Now***
+
+New York, NY
+
+Master of Science, Biostatistics
+
+## Experience
+
+**ECON 184 Class Project of Statistics**
+
+***04/20/2020-05/01/2020***
+
+Made an analysis of whether improving secondary school enrollment rate would result in the lower rate of teen fertility
+
+Took part in data analysis and method choice, including data screening, picking up variables and excluding the variables of missing data; determined to take charge of instrument variables method to omit bias
+
+**Final Project-How would Factors of Airbnb Affect the Price**
+
+***09/2019-12/2020***
+
+Aimed to research the price of airbnb in city of Boston
+
+Responsible for the assignment of mathematics and statistics by using Multivariable analysis and changing r squareinto adjusted r square
+
+**Research on Paper of Single-Pixel Imaging via Compressive Sampling**
+
+***09/2019-10/20/2019***
+
+Responsible for the research on compressive sampling based on the Multivariate generalized linear model
+
+Gained a good knowledge of Multivariate GLM and a preliminary understanding of the manova
+
+Completed relevant PPT and conducted a class presentation
+
+# Instacart
+
+* [plotly](file:///Users/jiayao/Downloads/data%20science/P8105_hw4_js5962.github.io/plotly.html)
