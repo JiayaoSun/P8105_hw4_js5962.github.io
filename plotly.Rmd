@@ -53,5 +53,6 @@ instacart %>%
   mutate(text_label = str_c("order id: ", order_id)) %>% 
   plot_ly(
     x = ~product_name, y = ~days_since_prior_order, z = ~aisle, type = "scatter3d", mode = "markers",
-    color = ~aisle, text = ~text_label, alpha = 0.8, colors = "viridis", size = 0.5)
+    color = ~aisle, text = ~text_label, alpha = 0.8, colors = "viridis", size = 0.5) %>% 
+  layout(showlegend = TRUE, legend = list(font = list(size = 5)))
 ```
