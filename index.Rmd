@@ -45,27 +45,28 @@ Master of Science, Biostatistics
 
 ***04/20/2020-05/01/2020***
 
-Made an analysis of whether improving secondary school enrollment rate would result in the lower rate of teen fertility
++ Made an analysis of whether improving secondary school enrollment rate would result in the lower rate of teen fertility
 
-Took part in data analysis and method choice, including data screening, picking up variables and excluding the variables of missing data; determined to take charge of instrument variables method to omit bias
++ Took part in data analysis and method choice, including data screening, picking up variables and excluding the variables of missing data; determined to take charge of instrument variables method to omit bias
 
 **Final Project-How would Factors of Airbnb Affect the Price**
 
 ***09/2019-12/2020***
 
-Aimed to research the price of airbnb in city of Boston
++ Aimed to research the price of airbnb in city of Boston
 
-Responsible for the assignment of mathematics and statistics by using Multivariable analysis and changing r squareinto adjusted r square
++ Responsible for the assignment of mathematics and statistics by using Multivariable analysis and changing r squareinto adjusted r square
 
 **Research on Paper of Single-Pixel Imaging via Compressive Sampling**
 
 ***09/2019-10/20/2019***
 
-Responsible for the research on compressive sampling based on the Multivariate generalized linear model
++ Responsible for the research on compressive sampling based on the Multivariate generalized linear model
 
-Gained a good knowledge of Multivariate GLM and a preliminary understanding of the manova
++ Gained a good knowledge of Multivariate GLM and a preliminary understanding of the manova
 
-Completed relevant PPT and conducted a class presentation
++ Completed relevant PPT and conducted a class presentation
+
 
 # Instacart
 
