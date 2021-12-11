@@ -70,4 +70,4 @@ Master of Science, Biostatistics
 
 # Instacart
 
-* [plotly](file:///Users/jiayao/Downloads/data%20science/P8105_hw4_js5962.github.io/plotly.html)
+* [plotly](plotly.html)
